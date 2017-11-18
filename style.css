@@ -1,0 +1,65 @@
+* {
+	margin: 0 auto;
+}
+
+body {
+
+	background-image: url('images/war.png');
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+
+p{
+	font-size: 25px;
+	color: #ffffff;
+}
+header {
+	margin: 0 auto; 
+	
+}
+#block1 {
+	background-color: rgba(1,162,194,0.7);
+	width: 300px;
+	border-radius: 5px;
+	color:#ffffff;
+}
+
+#block2 {
+	background-color: rgba(1,162,194,0.6);
+	width: 300px;
+	border-radius: 5px;
+	color:#ffffff;
+}
+
+
+#block3 {
+	background-color: rgba(1,162,194,0.5);
+	width: 300px;
+	border-radius: 5px;
+	color:#ffffff;
+}
+
+
+#block4 {
+	background-color: rgba(1,162,194,0.6);
+	width: 300px;
+	border-radius: 5px;
+	color:#ffffff;
+}
+
+
+#block5 {
+	background-color: rgba(1,162,194,0.6);
+	width: 300px;
+	border-radius: 5px;
+	color:#ffffff;
+}
+
+
+#block6 {
+	background-color: rgba(1,162,194,0.6);
+	width: 300px;
+	border-radius: 5px;
+	color:#ffffff;
+}
+
