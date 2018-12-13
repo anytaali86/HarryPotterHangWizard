@@ -1,13 +1,14 @@
-# retry-hangman
-here is the link for you! 
+# Harry Potter Hangman
 
-This a traditional hangman game with a Harry potter twist. 
+This a traditional hangman game with a Harry potter twist.
 
-Here is the link: 
-https://anytaali86.github.io/HarryPotterHangWizard/
+Here is the link:
+https://anytaaly.github.io/HarryPotterHangWizard/
 
-The backend is written in JS/JQuery. 
-The frontend uses HTML5, CSS3 and JQuery. 
+Stack used to develop this simple game is:
+HTML
+CSS
+JAVASCRIPT
 
-Developed by: Anyta ali 
-(C) All copyrights reserved! 
+Developed by: Anyta ali
+(C) All copyrights reserved!
